@@ -1,0 +1,171 @@
+
+
+root { 
+    display: block;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body
+{
+    background-color: #e8eaf6;
+}
+ 
+
+.header_div
+{
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    
+}
+
+.image_class
+{
+  
+  height: 100%;
+  width: 15%;
+}
+
+ .header_button
+{
+    border-radius: 4px;
+    border: none;
+    color: white;   
+    height: 40px;
+    width: 90px;
+    margin-top: 1%;
+    margin-right: 2%;
+    background-color: #072791!important;
+    font: inherit;
+    float: right;
+}
+ 
+.buttonclass
+{
+    
+    margin-left:10px;
+    height: 40px;
+    width: 100px;
+    margin-top: 7px;
+    font-size: 15px;
+    background-color: #072791!important;
+    color: white;
+    border:none;
+    border-radius: 4px;
+}
+
+
+.h
+{
+    font-size: 15px;
+    margin-left: 5%;
+}
+ 
+
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+ol, ul { list-style: none; }
+
+ 
+
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+strong, b { font-weight: bold; } 
+
+ 
+ 
+
+/** page structure **/
+#wrapper {
+  display: block;
+  width: 90%;
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 10px 17px; 
+  -webkit-box-shadow: 2px 2px 3px -1px rgba(0,0,0,0.35);
+  margin-top: 5%;
+  height: 60%;
+  
+   
+      
+}
+
+#keywords {
+  margin: 0 auto;
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+
+#keywords thead {
+  cursor: pointer;
+  background: #c9dff0;
+}
+#keywords thead tr th { 
+  font-weight: bold;
+  padding: 12px 30px;
+  padding-left: 42px;
+    margin-top: 20px;
+
+}
+#keywords thead tr th span { 
+  padding-right: 20px;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+  background: #c9dff0;
+  font-size: 15px;
+    margin-top: 20px;
+
+}
+
+#keywords thead tr th.headerSortUp, #keywords thead tr th.headerSortDown {
+  background:  #e8eaf6;
+}
+ 
+
+#keywords tbody tr { 
+  color: #555;
+  font-size: 15px;
+}
+#keywords tbody tr td {
+  text-align: center;
+  padding: 15px 10px;
+  font-size: 15px;
+}
+#keywords tbody tr td.lalign {
+  text-align: left;
+  font-size: 15px;
+} 
+
+
+
+.space
+{
+    height: 50px;
+    width: 100%;
+         
+}
+
+.maindiv
+{
+    display: block;
+    border-radius: 4px;
+    height: 82%;
+    width: 40%;
+    background-color: white;
+    margin-left: 30%;
+    margin-top: 5%;    
+}
+
+
+.datadiv
+{
+    height: 200px; width: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 100px 0 0 50px;
+}
