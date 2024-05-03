@@ -1,1 +1,2 @@
 # PHP-Project---Clustering-Rooming-House
+This project aims to develop an online hostel booking portal catering to both hostel owners and customers. The focus is on implementing clustering algorithms to categorize rooming houses efficiently. Hostel owners can list their properties, while customers can easily find suitable accommodations based on preferences. The portal streamlines the booking process, enhancing user experience and maximizing occupancy rates. Additionally, it fosters a dynamic marketplace connecting hostel owners with potential guests seamlessly.
